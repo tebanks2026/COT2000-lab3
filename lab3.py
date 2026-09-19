@@ -1,6 +1,4 @@
 name = "Tyler Ebanks"
-numbers = {1, 10, 100, 1000, 10000}
+numbers = {1, 2, 3, 4, 5}
 print("Student:", name)
 print("Numbers", numbers)
-campus = "Boca Raton, Florida"
-print("Campus:", campus)
