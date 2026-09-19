@@ -1,4 +1,1 @@
-name = "Tyler Ebanks"
-numbers = {1, 10, 100, 1000, 10000}
-print("Student:", name)
-print("Numbers", numbers)
+COT2000 Lab 3
