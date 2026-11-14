@@ -1,7 +1,7 @@
 # My First Markdown Document
 ## Introduction
 ### About Me
-My name is **Abit Jurkuch**.
+My name is **Tyler Ebanks**.
 I am learning *Python programming*.
 This is an example of **bold text**.
 This is an example of *italic text*.
