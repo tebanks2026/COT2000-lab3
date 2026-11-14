@@ -25,7 +25,6 @@ I am studying `COT2000`.
 - [x] Create a GitHub repository
 - [ ] Complete Markdown documentation
 
-<<<<<<< HEAD
 
 
 # COT2000 Lab 3 - Python Programming
@@ -40,7 +39,7 @@ programming concepts, including:
 - Arithmetic operations
 - GitHub version control
 ## Student Information
-**Name:** Your Name
+**Name:** Tyler Ebanks
 **Course:** COT2000 - Foundations of Computing
 **Semester:** Fall 2026
 ## Python Program
